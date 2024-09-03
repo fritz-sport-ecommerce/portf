@@ -26,6 +26,12 @@ import arrow from './arrow.svg'
 import contact from './contact.svg'
 import soundon from './soundon.png'
 import soundoff from './soundoff.png'
+import wordpress from './wordpress.svg'
+import sanity from './sanity.svg'
+import fritzsport from './fritzsport.svg'
+
+
+
 
 export {
     css,
@@ -34,6 +40,7 @@ export {
     github,
     html,
     javascript,
+    fritzsport,
     mongodb,
     motion,
     mui,
@@ -42,11 +49,13 @@ export {
     react,
     redux,
     sass,
+    sanity,
     tailwindcss,
     typescript,
     linkedin,
     twitter,
     car,
+    wordpress,
     estate,
     pricewise,
     snapgram,
